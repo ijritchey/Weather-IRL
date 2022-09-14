@@ -11,10 +11,7 @@ Fork & Clone this repo.
 - [ ] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. World wide air quality index and weather web application - (if possible combine wildfire warnings) 
-User Story #1: As a user I want to be able to search for different cities and display different pieces of weather and air quality preferences, so that I have one quick place to look for what I need.
-User Story #2: As a user I want to be able to toggle on/off certain preferences for each city I choose to track. 
-User Story #3: As a user I want all of my tracked cities to be displayed on a dashboard that lets me know what I need to at a glance. 
+1. "Weather IRL" World wide air quality index and weather web application - (if possible combine wildfire warnings)  
 API resource: 
 https://www.iqair.com/air-pollution-data-api - Air quality index API
 https://docs.openaq.org/docs - Separate Air quality index API
@@ -43,6 +40,9 @@ In the space below:
 
 ----------------------------------------------------------
 ### User Stories
+User Story #1: As a user I want to be able to search for different cities and display different pieces of weather and air quality preferences, so that I have one quick place to look for what I need.
+User Story #2: As a user I want to be able to toggle on/off certain preferences for each city I choose to track. 
+User Story #3: As a user I want all of my tracked cities to be displayed on a dashboard that lets me know what I need to at a glance.
 
 ----------------------------------------------------------
 ### Wireframes
